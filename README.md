@@ -1,16 +1,78 @@
-# React + Vite
+# ✅ Task Buddy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 About
 
-Currently, two official plugins are available:
+Task Buddy is a simple and user-friendly task management application built using React.js. It helps users organize their daily tasks by allowing them to add, edit, delete, undo deleted tasks, and mark tasks as completed.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- ➕ Add New Tasks
+- ✏️ Edit Tasks
+- 🗑️ Delete Tasks
+- ↩️ Undo Deleted Tasks
+- ✅ Mark Tasks as Completed
+- 📱 Responsive User Interface
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Git
+- GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
+
+```text
+TaskBuddy/
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+└── vite.config.js
+```
+
+## ▶️ How to Run
+
+```bash
+git clone https://github.com/jyo88808-design/Taskbuddy.git
+cd Taskbuddy
+npm install
+npm run dev
+```
+
+Open your browser:
+
+```text
+http://localhost:5173/
+```
+
+## 📋 Features Included
+
+- Add Tasks
+- Edit Tasks
+- Delete Tasks
+- Undo Deleted Tasks
+- Mark Tasks as Completed
+- Responsive Design
+
+## 🌱 Future Enhancements
+
+- User Authentication
+- Task Categories
+- Due Dates & Reminders
+- Dark Mode
+
+## 👩‍💻 Developer
+
+**Jyothi**
+
+- MCA PostGraduate
+- React Frontend Developer
+
+⭐ If you found this project useful, please consider giving it a star!
